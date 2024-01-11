@@ -1,0 +1,14 @@
+D:\MPHASIS\ASSIGNMENT\PHASE4\DAY5\Phase4assignmentDay05\Phase4assignmentDay05\bin\Release\net6.0\Phase4assignmentDay05.exe
+D:\MPHASIS\ASSIGNMENT\PHASE4\DAY5\Phase4assignmentDay05\Phase4assignmentDay05\bin\Release\net6.0\Phase4assignmentDay05.deps.json
+D:\MPHASIS\ASSIGNMENT\PHASE4\DAY5\Phase4assignmentDay05\Phase4assignmentDay05\bin\Release\net6.0\Phase4assignmentDay05.runtimeconfig.json
+D:\MPHASIS\ASSIGNMENT\PHASE4\DAY5\Phase4assignmentDay05\Phase4assignmentDay05\bin\Release\net6.0\Phase4assignmentDay05.dll
+D:\MPHASIS\ASSIGNMENT\PHASE4\DAY5\Phase4assignmentDay05\Phase4assignmentDay05\bin\Release\net6.0\Phase4assignmentDay05.pdb
+D:\MPHASIS\ASSIGNMENT\PHASE4\DAY5\Phase4assignmentDay05\Phase4assignmentDay05\obj\Release\net6.0\Phase4assignmentDay05.GeneratedMSBuildEditorConfig.editorconfig
+D:\MPHASIS\ASSIGNMENT\PHASE4\DAY5\Phase4assignmentDay05\Phase4assignmentDay05\obj\Release\net6.0\Phase4assignmentDay05.AssemblyInfoInputs.cache
+D:\MPHASIS\ASSIGNMENT\PHASE4\DAY5\Phase4assignmentDay05\Phase4assignmentDay05\obj\Release\net6.0\Phase4assignmentDay05.AssemblyInfo.cs
+D:\MPHASIS\ASSIGNMENT\PHASE4\DAY5\Phase4assignmentDay05\Phase4assignmentDay05\obj\Release\net6.0\Phase4assignmentDay05.csproj.CoreCompileInputs.cache
+D:\MPHASIS\ASSIGNMENT\PHASE4\DAY5\Phase4assignmentDay05\Phase4assignmentDay05\obj\Release\net6.0\Phase4assignmentDay05.dll
+D:\MPHASIS\ASSIGNMENT\PHASE4\DAY5\Phase4assignmentDay05\Phase4assignmentDay05\obj\Release\net6.0\refint\Phase4assignmentDay05.dll
+D:\MPHASIS\ASSIGNMENT\PHASE4\DAY5\Phase4assignmentDay05\Phase4assignmentDay05\obj\Release\net6.0\Phase4assignmentDay05.pdb
+D:\MPHASIS\ASSIGNMENT\PHASE4\DAY5\Phase4assignmentDay05\Phase4assignmentDay05\obj\Release\net6.0\Phase4assignmentDay05.genruntimeconfig.cache
+D:\MPHASIS\ASSIGNMENT\PHASE4\DAY5\Phase4assignmentDay05\Phase4assignmentDay05\obj\Release\net6.0\ref\Phase4assignmentDay05.dll
